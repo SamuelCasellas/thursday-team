@@ -1,3 +1,3 @@
 # thursday-team
-Carson - I like to build computers.
+Carson - I like to build computers!
 Victor - I study in BYUI online since 2014
