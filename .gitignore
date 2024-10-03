@@ -1,0 +1,5 @@
+# Jest
+coverage/
+
+# npm
+node_modules/
