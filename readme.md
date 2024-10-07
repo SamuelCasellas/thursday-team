@@ -18,3 +18,8 @@ This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutori
 
 If you would like to use a backend written in Go, [thewhitetulip](http://github.com/thewhitetulip) has written on. See [the source code](https://github.com/thewhitetulip/go-vue-events).
  
+# thursday-team
+Carson - I like to build computers!
+Victor - I study in BYUI online since 2014
+Zach - I like to sing and play football!
+Samuel - I enjoy coding & playing the piano
