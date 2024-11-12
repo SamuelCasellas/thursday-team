@@ -1,6 +1,2 @@
 .DS_Store
-# Jest
-coverage/
-
-# npm
-node_modules/
+node_modules
