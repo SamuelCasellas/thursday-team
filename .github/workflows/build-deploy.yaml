@@ -1,12 +1,11 @@
 on:
-  workflow_dispatch:
   pull_request:
     branches: 
       - main
     types:
       - closed
 env:
-  REPO_NAME: carsonbm/itm350-bb
+  REPO_NAME: samusdock/itm350-samuelc-bb
 
 jobs:
   if_merged:
