@@ -25,7 +25,6 @@ jobs:
       run: npm run test:coverage
       
     - name: Check coverage threshold
-      uses: actions/checkout@v2
       run: |
         COVERAGE=$(cat coverage/coverage.json | jq '.total.statements.pct')
         if (( $(echo "$COVERAGE < 50" | bc -l) )); then
